@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1>Hi 👋, I'm Anirudh Panwar</h1>
 <p>A passionate Frontend Developer | React & JavaScript | MERN Stack Practitioner Building responsive, scalable web applications with React and gaining hands-on experience across the MERN stack.</p>
 <h2>🚀 Languages and Tools I Use</h2>
